@@ -9,7 +9,7 @@
 
 I’m a **Software Engineer**, **Data Scientist**
 
-I also write technical articles on software engineering. :contentReference[oaicite:1]{index=1}
+I also write technical articles on software engineering.
 
 ---
 
