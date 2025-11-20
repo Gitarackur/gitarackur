@@ -10,7 +10,6 @@
 I’m a **Software Engineer** and **Data Scientist** with experience spanning:
 
 - Full-stack development  
-- Data engineering & analytics  
 - Data Science  
 - Technical writing  
 
@@ -108,6 +107,9 @@ I also publish technical articles on software engineering and modern web tooling
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFCC00?logo=huggingface&logoColor=black)
 
 ---
 
