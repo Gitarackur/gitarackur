@@ -120,6 +120,13 @@ Here are some of the key technologies and tools I use regularly, represented as 
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
 
 
+
+### Project Management
+![Jira](https://img.shields.io/badge/-Jira-646CFF?logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/-Trello-646CFF?logo=trello&logoColor=white)
+![Clickup](https://img.shields.io/badge/-Clickup-646CFF?logo=clickup&logoColor=white)
+
+
 ### Others
 ![Raspberry.pi](https://img.shields.io/badge/-raspberry.pi-339933?logo=raspberry.pi&logoColor=white)
 
