@@ -98,16 +98,23 @@ I also publish technical articles on software engineering and modern web tooling
 
 ---
 
+# 🔬 **Data & Bioinformatics**
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Conda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4EBCD4?logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)
+
+---
+
 # 🔗 **Web3**
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?logo=javascript&logoColor=white)
 ![ethers.js](https://img.shields.io/badge/ethers.js-2536FF?logo=ethereum&logoColor=white)
 ![Wagmi](https://img.shields.io/badge/Wagmi-1C1C1C?logo=react&logoColor=white)
-
----
-
-# 🔬 **Data & Bioinformatics**
-![Bioinformatics](https://img.shields.io/badge/Bioinformatics-6DB33F)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4CAF50?logo=python&logoColor=white)
 
 ---
 
