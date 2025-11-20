@@ -176,5 +176,5 @@ I also publish technical articles on software engineering.
 ## 🧩 Contribution Snake
 
 > **Animated GitHub contribution snake**
-![snake gif](https://raw.githubusercontent.com/gitarackur/gitarackur/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/gitarackur/output/github-contribution-grid-snake-dark.svg)
 
