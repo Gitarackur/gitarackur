@@ -144,6 +144,14 @@ I also publish technical articles on software engineering and modern web tooling
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 ![GitLab Registry](https://img.shields.io/badge/GitLab%20Registry-FC6D26?logo=gitlab&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black)
+![Rollup](https://img.shields.io/badge/Rollup.js-EC4A3F?logo=rollup.js&logoColor=white)
+![Parcel](https://img.shields.io/badge/Parcel-F7B500?logo=parcel&logoColor=black)
+![Turbopack](https://img.shields.io/badge/Turbopack-000000?logo=next.js&logoColor=white)
+![Nx](https://img.shields.io/badge/Nx-143055?logo=nx&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?logo=turborepo&logoColor=white)
+![Yarn Workspaces](https://img.shields.io/badge/Yarn%20Workspaces-2C8EBB?logo=yarn&logoColor=white)
+![pnpm Workspaces](https://img.shields.io/badge/pnpm%20Workspaces-F69220?logo=pnpm&logoColor=white)
 
 ---
 
