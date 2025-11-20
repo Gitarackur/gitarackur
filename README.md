@@ -98,9 +98,9 @@ Here are some of the key technologies and tools I use regularly, represented as 
 
 
 ### Mobile and Desktop
-![React Native](https://img.shields.io/badge/-reactnative-000000)
-![Electron](https://img.shields.io/badge/-electron-000000)
-![Flutter](https://img.shields.io/badge/-flutter-000000)
+![React Native](https://img.shields.io/badge/-ReactNative-339933?logo=reactnative&logoColor=white)
+![Electron](https://img.shields.io/badge/-Electron-339933?logo=node.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-339933?logo=node.js&logoColor=white)
 
 
 ### Automation
