@@ -46,6 +46,7 @@ I also publish technical articles on software engineering.
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?logo=nuxtdotjs&logoColor=white)
 ![HTMX](https://img.shields.io/badge/HTMX-3366CC?logo=htmx&logoColor=white)
+![Refine](https://img.shields.io/badge/Refine-24292F?logo=github&logoColor=white)
 
 ### 🎨 UI / Styling
 ![Linaria](https://img.shields.io/badge/Linaria-FF4785)
@@ -54,8 +55,11 @@ I also publish technical articles on software engineering.
 ![MaterializeCSS](https://img.shields.io/badge/MaterializeCSS-EE6E73?logo=materialdesign&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
-![Refine](https://img.shields.io/badge/Refine-24292F?logo=github&logoColor=white)
+
+
+### 🎨 CMS/
 ![ButterCMS](https://img.shields.io/badge/ButterCMS-FFCA28?logo=buttercms&logoColor=black)
+![Strapi](https://img.shields.io/badge/Strapi-blue?logo=strapi&logoColor=black)
 
 ---
 
