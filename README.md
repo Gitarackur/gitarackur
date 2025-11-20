@@ -80,6 +80,7 @@ I also publish technical articles on software engineering.
 ### 🏗 Infrastructure & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-326CE5?logo=aws&logoColor=white)
 
 ### Backend-as-a-Service
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
