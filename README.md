@@ -69,6 +69,8 @@ I also publish technical articles on software engineering.
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 ![Deno](https://img.shields.io/badge/Deno-000000?logo=deno&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000000)
+![BullMQ](https://img.shields.io/badge/BullMQ-CB3837?logo=npm&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?logo=minio&logoColor=white)
 
 ### 🐍 Python Backend
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
@@ -78,9 +80,6 @@ I also publish technical articles on software engineering.
 ### 🏗 Infrastructure & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
-![BullMQ](https://img.shields.io/badge/BullMQ-CB3837?logo=npm&logoColor=white)
-![MinIO](https://img.shields.io/badge/MinIO-C72E49?logo=minio&logoColor=white)
 
 ### Backend-as-a-Service
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
@@ -90,6 +89,7 @@ I also publish technical articles on software engineering.
 ---
 
 # 🗄️ **Databases & ORMs**
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
