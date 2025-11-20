@@ -57,7 +57,7 @@ I also publish technical articles on software engineering.
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
 
 
-### 🎨 CMS/
+### 🎨 CMS
 ![ButterCMS](https://img.shields.io/badge/ButterCMS-FFCA28?logo=buttercms&logoColor=black)
 ![Strapi](https://img.shields.io/badge/Strapi-blue?logo=strapi&logoColor=black)
 
