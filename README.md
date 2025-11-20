@@ -20,13 +20,13 @@ Here are some of the key technologies and tools I use regularly, represented as 
 ### Main Languages
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/-Python-3178C6?logo=typescript&logoColor=white) 
+![Python](https://img.shields.io/badge/-Python-3178C6?logo=python&logoColor=white) 
 
 ### Other languages
-![Ruby](https://img.shields.io/badge/-Ruby-3178C6?logo=typescript&logoColor=white) 
-![R](https://img.shields.io/badge/-R-3178C6?logo=typescript&logoColor=white) 
-![F#](https://img.shields.io/badge/-F#-3178C6?logo=typescript&logoColor=white) 
-![C#](https://img.shields.io/badge/-F#-3178C6?logo=typescript&logoColor=white) 
+![Ruby](https://img.shields.io/badge/-Ruby-3178C6?logo=ruby&logoColor=white) 
+![R](https://img.shields.io/badge/-R-3178C6?logo=r&logoColor=white) 
+![F#](https://img.shields.io/badge/-F#-3178C6?logo=f#&logoColor=white) 
+![C#](https://img.shields.io/badge/-F#-3178C6?logo=c#&logoColor=white) 
 ![Java](https://img.shields.io/badge/-java-3178C6?logo=java&logoColor=white)
 ![Golang#](https://img.shields.io/badge/-golang-3178C6?logo=golang&logoColor=white) 
 ![C](https://img.shields.io/badge/-c-3178C6?logo=c&logoColor=white) 
@@ -34,8 +34,8 @@ Here are some of the key technologies and tools I use regularly, represented as 
 
 ### Frontend / UI
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Angular.js](https://img.shields.io/badge/-Nuxt.js-00C58E?logo=nuxtdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-00C58E?logo=nuxtdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/-Nuxt.js-00C58E?logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-00C58E?logo=vue&logoColor=white)
 ![Svelte.js](https://img.shields.io/badge/-Svelte-00C58E?logo=svelte&logoColor=white)
 ![Preact](https://img.shields.io/badge/-Preact-673AB7?logo=preact&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
@@ -63,12 +63,13 @@ Here are some of the key technologies and tools I use regularly, represented as 
 
 ![FastApi](https://img.shields.io/badge/-fastapi-336791?logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/-django-336791?logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-flask-336791?logo=flask&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Minio](https://img.shields.io/badge/-Minio-2496ED?logo=minio&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-2496ED?logo=kubernetes&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-339933?logo=redis&logoColor=white)
 ![BullMQ](https://img.shields.io/badge/-BullMQ-339933?logo=bullmq&logoColor=white)
+![Minio](https://img.shields.io/badge/-Minio-2496ED?logo=minio&logoColor=white)
 
 ![Firebase](https://img.shields.io/badge/-Firebase-336791?logo=firebase&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-336791?logo=supabase&logoColor=white)
