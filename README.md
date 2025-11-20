@@ -166,3 +166,52 @@ I also publish technical articles on software engineering.
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white)
 
 ---
+
+
+
+
+
+## 🚀 GitHub Stats
+
+<div align="center">
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=gitarackur&show_icons=true&theme=transparent&hide_border=true" height="180">
+
+<!-- Streak -->
+<img src="https://streak-stats.demolab.com/?user=gitarackur&theme=transparent&hide_border=true" height="180">
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitarackur&layout=compact&theme=transparent&hide_border=true" height="180">
+
+</div>
+
+---
+
+## 📦 Top Contributed Repositories
+
+<div align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=gitarackur&limit=5&theme=transparent&hide_border=true">
+
+</div>
+
+---
+
+## 📊 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gitarackur&theme=github-compact&hide_border=true">
+
+</div>
+
+---
+
+## 🧩 Contribution Snake
+
+> **Animated GitHub contribution snake**
+
+```md
+![snake gif](https://raw.githubusercontent.com/gitarackur/gitarackur/output/github-contribution-grid-snake-dark.svg)
+
