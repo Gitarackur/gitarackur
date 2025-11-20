@@ -40,7 +40,7 @@ Here are some of the key technologies and tools I use regularly, represented as 
 ![Preact](https://img.shields.io/badge/-Preact-673AB7?logo=preact&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?logo=nuxtdotjs&logoColor=white)
-![HTMX](https://img.shields.io/badge/-htmx-000000)
+![HTMX](https://img.shields.io/badge/-HTMX-00C58E?logo=htmx&logoColor=white)
 
 
 ![CSS-in-JS (Linaria)](https://img.shields.io/badge/-Linaria-FF4785)
