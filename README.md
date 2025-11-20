@@ -13,7 +13,7 @@ I’m a **Software Engineer** and **Data Scientist** with experience spanning:
 - Data Science  
 - Technical writing  
 
-I also publish technical articles on software engineering and modern web tooling.
+I also publish technical articles on software engineering.
 
 ---
 
