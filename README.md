@@ -39,12 +39,14 @@ I also publish technical articles on software engineering.
 
 # 🎨 **Frontend & UI**
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Preact](https://img.shields.io/badge/Preact-673AB7?logo=preact&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-41B883?logo=vuedotjs&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white)
-![Preact](https://img.shields.io/badge/Preact-673AB7?logo=preact&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?logo=nuxtdotjs&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white)
+
+
 ![HTMX](https://img.shields.io/badge/HTMX-3366CC?logo=htmx&logoColor=white)
 ![Refine](https://img.shields.io/badge/Refine-24292F?logo=github&logoColor=white)
 
