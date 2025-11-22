@@ -45,6 +45,7 @@ I also publish technical articles on software engineering.
 ![Vue.js](https://img.shields.io/badge/Vue.js-41B883?logo=vuedotjs&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?logo=nuxtdotjs&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white)
+![Lit](https://img.shields.io/badge/Lit-FF3E00?logo=lit&logoColor=white)
 
 
 ![HTMX](https://img.shields.io/badge/HTMX-3366CC?logo=htmx&logoColor=white)
