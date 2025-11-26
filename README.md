@@ -141,6 +141,20 @@ I also publish technical articles on software engineering.
 
 ---
 
+
+---
+
+# ⚙️ **Testing**
+![Jest](https://img.shields.io/badge/jest-4EAA25?logo=jest&logoColor=white)
+![Mocha](https://img.shields.io/badge/mocha-4EAA25?logo=mocha&logoColor=white)
+![React Testing Library](https://img.shields.io/react-testing-library/react-testing-library-4EAA25?logo=react-testing-library&logoColor=white)
+![Playwright](https://img.shields.io/playwright/playwright-4EAA25?logo=playwright&logoColor=white)
+![Vitest](https://img.shields.io/vitest/vitest-4EAA25?logo=vitest&logoColor=white)
+![Storybook](https://img.shields.io/storybook/storybook-4EAA25?logo=storybook&logoColor=white)
+![Pytest](https://img.shields.io/pytest/pytest-4EAA25?logo=vitest&logoColor=white)
+---
+
+
 # 🚀 **Deployment**
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
