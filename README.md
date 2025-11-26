@@ -146,12 +146,13 @@ I also publish technical articles on software engineering.
 
 # ⚙️ **Testing**
 ![Jest](https://img.shields.io/badge/Jest-4EAA25?logo=jest&logoColor=white)
-![Mocha](https://img.shields.io/badge/Mocha-4EAA25?logo=mocha&logoColor=white)
-![React Testing Library](https://img.shields.io/badge/React%20Testing%20Library-4EAA25?logo=testinglibrary&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-4EAA25?logo=playwright&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-4EAA25?logo=vitest&logoColor=white)
-![Storybook](https://img.shields.io/badge/Storybook-4EAA25?logo=storybook&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-4EAA25?logo=pytest&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
+![Mocha](https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/React%20Testing%20Library-E33332?logo=testinglibrary&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white)
 ---
 
 
