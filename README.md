@@ -146,7 +146,6 @@ I also publish technical articles on software engineering.
 
 # ⚙️ **Testing**
 ![Jest](https://img.shields.io/badge/Jest-4EAA25?logo=jest&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=white)
 ![React Testing Library](https://img.shields.io/badge/React%20Testing%20Library-E33332?logo=testinglibrary&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
