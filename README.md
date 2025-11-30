@@ -2,6 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Peter%20Osah-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peter-osah-744118179/)
 [![Twitter](https://img.shields.io/badge/X-@osah_peter-1DA1F2?logo=x&logoColor=white)](https://x.com/osah_peter)
+![Profile Views](https://komarev.com/ghpvc/?username=gitarackur&color=blue&style=flat-square&label=Profile+Views)
 
 ---
 
