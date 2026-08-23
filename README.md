@@ -35,7 +35,7 @@ I also publish technical articles on software engineering.
 ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-A8B9CC?logo=c&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-A8B9CC?logo=rust&logoColor=red)
 
 ---
 
