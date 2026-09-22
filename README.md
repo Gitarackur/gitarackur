@@ -1,5 +1,8 @@
 # 👋 Hi, I’m Peter
 
+### Software Engineering · Data Science · Bioinformatics
+**Building in Systems Engineering, AI & Harness Engineering**
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Peter%20Osah-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peter-osah-744118179/)
 [![Twitter](https://img.shields.io/badge/X-@osah_peter-1DA1F2?logo=x&logoColor=white)](https://x.com/osah_peter)
 ![Profile Views](https://komarev.com/ghpvc/?username=gitarackur&color=blue&style=flat-square&label=Profile+Views)
@@ -8,13 +11,33 @@
 
 ## 💼 About Me
 
-I’m a **Software Engineer** and **Data Scientist** with experience spanning:
+I’m a **Software Engineer** and **Data Scientist** working across full-stack applications, developer tooling, scientific computing, and bioinformatics.
 
-- Full-stack development  
-- Data Science  
-- Technical writing  
+I’m taking my software engineering background deeper into **systems engineering**, **AI**, and **harness engineering**—building tools and services, connecting agents to executable workflows, and putting validation and evaluation around their outputs. I’m interested in how software behaves beneath the interface—and what makes it reliable in practice.
 
 I also publish technical articles on software engineering.
+
+---
+
+## ⚙️ Systems Engineering
+
+I’m extending my application development background into **Rust**, **Linux**, and runtime infrastructure. My focus is on how services communicate, manage state, and handle failure, with reproducible environments and reliable execution as design priorities.
+
+## 🧠 AI & Harness Engineering
+
+I’m developing agent workflows and the software around them: context management, tool integration, validation, and evaluation. **Harness engineering** is a particular focus—giving agents a structured environment to act in and making their outputs testable and inspectable.
+
+Much of this work lives in private repositories. Here, I share the engineering direction and the projects I can make public.
+
+## 🔬 Public Project: Icarus
+
+[Icarus](https://github.com/Gitarackur/MISSION-ICARUS) is a desktop workspace I’m building for statistical analysis and visualization, using **TypeScript, Electron, Python, and R**. It connects my software engineering, data science, and bioinformatics work through concrete engineering problems:
+
+- Processing large tabular datasets with columnar storage and background workers.
+- Coordinating Python and R processes for statistical computation and visualization.
+- Tracking analysis steps and their outputs through a persistent workflow model.
+
+The repository includes implementation details and architecture documentation for these decisions.
 
 ---
 
@@ -191,4 +214,3 @@ I also publish technical articles on software engineering.
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white)
 
 ---
-
