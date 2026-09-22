@@ -27,8 +27,6 @@ I’m moving into **systems engineering**, building on my software development b
 
 I’m building tools and workflows around AI agents, from giving them useful context and connecting them to tools to checking the results they produce. That’s where my interest in **harness engineering** comes in: setting up the environment an agent works in and making it easier to test how well it does a task.
 
-Much of this work is in private repositories. The projects I can share publicly offer a look at how I approach building software.
-
 ## 🔬 What I’m Building: Icarus
 
 [Icarus](https://github.com/Gitarackur/MISSION-ICARUS) is a desktop app I’m building to explore, analyze, and visualize scientific datasets. It brings together my software engineering, data science, and bioinformatics interests using **TypeScript, Electron, Python, and R**.
