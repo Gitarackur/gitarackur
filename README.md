@@ -21,7 +21,7 @@ I also write technical articles to share what I learn and build.
 
 ## ⚙️ Systems Engineering
 
-I’m working with **Rust** and **Linux** as I move further into systems engineering. I’m interested in how services talk to each other, keep track of state, and recover when something goes wrong. Building software that’s straightforward to run, debug, and maintain is a big part of that.
+I’m moving into **systems engineering**, building on my software development background. I’m interested in how software interacts with the operating system and uses resources like memory, CPU, and I/O. My focus includes systems programming with **Rust**, working with **Linux**, and understanding the trade-offs behind performance, concurrency, and reliability.
 
 ## 🧠 AI & Harness Engineering
 
