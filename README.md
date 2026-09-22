@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Peter
 
 ### Software Engineering · Data Science · Bioinformatics
-**Building in Systems Engineering, AI & Harness Engineering**
+**Building tools and exploring systems, AI & harness engineering**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Peter%20Osah-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peter-osah-744118179/)
 [![Twitter](https://img.shields.io/badge/X-@osah_peter-1DA1F2?logo=x&logoColor=white)](https://x.com/osah_peter)
@@ -11,33 +11,35 @@
 
 ## 💼 About Me
 
-I’m a **Software Engineer** and **Data Scientist** working across full-stack applications, developer tooling, scientific computing, and bioinformatics.
+I’m a **Software Engineer** and **Data Scientist**. I build web applications, developer tools, and software for working with scientific data, including bioinformatics.
 
-I’m taking my software engineering background deeper into **systems engineering**, **AI**, and **harness engineering**—building tools and services, connecting agents to executable workflows, and putting validation and evaluation around their outputs. I’m interested in how software behaves beneath the interface—and what makes it reliable in practice.
+I’m now taking that background into **systems engineering**, **AI**, and **harness engineering**. I enjoy understanding how things work under the hood, building useful tools, and figuring out how to make them dependable.
 
-I also publish technical articles on software engineering.
+I also write technical articles to share what I learn and build.
 
 ---
 
 ## ⚙️ Systems Engineering
 
-I’m extending my application development background into **Rust**, **Linux**, and runtime infrastructure. My focus is on how services communicate, manage state, and handle failure, with reproducible environments and reliable execution as design priorities.
+I’m working with **Rust** and **Linux** as I move further into systems engineering. I’m interested in how services talk to each other, keep track of state, and recover when something goes wrong. Building software that’s straightforward to run, debug, and maintain is a big part of that.
 
 ## 🧠 AI & Harness Engineering
 
-I’m developing agent workflows and the software around them: context management, tool integration, validation, and evaluation. **Harness engineering** is a particular focus—giving agents a structured environment to act in and making their outputs testable and inspectable.
+I’m building tools and workflows around AI agents, from giving them useful context and connecting them to tools to checking the results they produce. That’s where my interest in **harness engineering** comes in: setting up the environment an agent works in and making it easier to test how well it does a task.
 
-Much of this work lives in private repositories. Here, I share the engineering direction and the projects I can make public.
+Much of this work is in private repositories. The projects I can share publicly offer a look at how I approach building software.
 
-## 🔬 Public Project: Icarus
+## 🔬 What I’m Building: Icarus
 
-[Icarus](https://github.com/Gitarackur/MISSION-ICARUS) is a desktop workspace I’m building for statistical analysis and visualization, using **TypeScript, Electron, Python, and R**. It connects my software engineering, data science, and bioinformatics work through concrete engineering problems:
+[Icarus](https://github.com/Gitarackur/MISSION-ICARUS) is a desktop app I’m building to explore, analyze, and visualize scientific datasets. It brings together my software engineering, data science, and bioinformatics interests using **TypeScript, Electron, Python, and R**.
 
-- Processing large tabular datasets with columnar storage and background workers.
-- Coordinating Python and R processes for statistical computation and visualization.
-- Tracking analysis steps and their outputs through a persistent workflow model.
+Some of the problems I’m working on include:
 
-The repository includes implementation details and architecture documentation for these decisions.
+- Handling large datasets while keeping the app responsive.
+- Bringing Python and R analysis tools into a single desktop app.
+- Keeping track of analysis steps so results can be traced back to the data and decisions behind them.
+
+You can browse the code and read about the design decisions in the [repository](https://github.com/Gitarackur/MISSION-ICARUS).
 
 ---
 
