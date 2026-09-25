@@ -10,7 +10,7 @@
 
 ## 💼 About Me
 
-I’m a **Software Engineer** and **Data Scientist**. I build web applications, developer tools, and software for working with scientific data, including bioinformatics.
+I’m a **Software Engineer** and **Data Scientist**. I build web, mobile applications, developer tools, and software for working with scientific data, including bioinformatics.
 
 I’m now taking that background into **systems engineering**, **AI**, and **harness engineering**. I enjoy understanding how things work under the hood, building useful tools, and figuring out how to make them dependable.
 
