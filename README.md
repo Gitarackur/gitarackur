@@ -54,7 +54,7 @@ I enjoy breaking down technical ideas and walking readers through practical exam
 
 ### Building applications & working with data
 
-- [Exploring Methods of Creating SSL HTTPS for Localhost in Node.JS](https://code.pieces.app/blog/exploring-methods-of-creating-sll-https-for-localhost-in-nodejs) (Pieces)
+- [Exploring Methods of Creating SSL HTTPS for Localhost in Node.JS](https://pieces.app/blog/exploring-methods-of-creating-sll-https-for-localhost-in-nodejs) (Pieces)
 - [Bootstrap your next Preact application with Bun](https://soshace.com/bootstrap-your-next-preact-application-with-bun/) (Soshace)
 - [Building a React Admin Dashboard with Refine](https://refine.dev/blog/building-react-admin-dashboard/) (Refine)
 - [React Admin Panel Tutorial with Chakra UI and Strapi](https://refine.dev/blog/react-admin-tutorial/) (Refine)
