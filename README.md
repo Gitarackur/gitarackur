@@ -44,6 +44,7 @@ I enjoy breaking down technical ideas and walking readers through practical exam
 
 ### React, architecture & testing
 
+- [Working with Jotai as your next state management in React](https://soshace.com/working-with-jotai-as-your-next-state-management-in-react/) (Soshace)
 - [React Design Patterns](https://refine.dev/blog/react-design-patterns/) (Refine)
 - [An Intro to Server Components in React](https://refine.dev/blog/react-server-components/) (Refine)
 - [Understanding Virtual DOM in React](https://refine.dev/blog/react-virtual-dom/) (Refine)
@@ -53,13 +54,12 @@ I enjoy breaking down technical ideas and walking readers through practical exam
 
 ### Building applications & working with data
 
+- [Exploring Methods of Creating SSL HTTPS for Localhost in Node.JS](https://code.pieces.app/blog/exploring-methods-of-creating-sll-https-for-localhost-in-nodejs) (Pieces)
+- [Bootstrap your next Preact application with Bun](https://soshace.com/bootstrap-your-next-preact-application-with-bun/) (Soshace)
 - [Building a React Admin Dashboard with Refine](https://refine.dev/blog/building-react-admin-dashboard/) (Refine)
 - [React Admin Panel Tutorial with Chakra UI and Strapi](https://refine.dev/blog/react-admin-tutorial/) (Refine)
 - [Building a Complete React CRUD App with Airtable](https://refine.dev/blog/react-crud-app-airtable/) (Refine)
 - [Airtable: a low-code solution for building modern apps](https://blog.openreplay.com/airtable-a-low-code-solution-for-modern-apps/) (OpenReplay)
-- [How to Quickly Build a Blog with Nuxt and ButterCMS](https://buttercms.com/blog/nuxt-blog-tutorial/) (ButterCMS)
-- [How to Build Performant Landing Pages with Nuxt and ButterCMS](https://buttercms.com/blog/nuxt-landing-page-tutorial/) (ButterCMS)
-- [Rails Tutorial: Creating an Impressive Knowledge Base with Content Powered by ButterCMS](https://buttercms.com/blog/rails-tutorial-creating-a-knowledge-base/) (ButterCMS)
 
 ### UI, styling & animation
 
