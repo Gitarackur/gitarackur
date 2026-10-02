@@ -14,7 +14,7 @@ I’m a **Software Engineer** and **Data Scientist**. I build web, mobile applic
 
 I’m now taking that background into **systems engineering**, **AI**, and **harness engineering**. I enjoy understanding how things work under the hood, building useful tools, and figuring out how to make them dependable.
 
-I also write technical articles to share what I learn and build.
+I also write technical articles to share what I learn and build. You can find a few examples in [Selected Writing](#-selected-writing).
 
 ---
 
@@ -36,7 +36,19 @@ Some of the problems I’m working on include:
 - Bringing Python and R analysis tools into a single desktop app.
 - Keeping track of analysis steps so results can be traced back to the data and decisions behind them.
 
-You can browse the code and read about the design decisions in the [repository](https://github.com/Gitarackur/MISSION-ICARUS).
+You can browse the code and read about the design decisions in the [repository](https://github.com/Gitarackur/MISSION-ICARUS), or check the [latest release](https://github.com/Gitarackur/MISSION-ICARUS/releases/latest).
+
+## ✍️ Selected Writing
+
+I enjoy breaking down technical ideas and walking readers through practical examples. Here are a few of my published articles:
+
+- [Creating testable React applications with Playwright](https://refine.dev/blog/playwright-react/) (Refine)
+- [An Intro to Server Components in React](https://refine.dev/blog/react-server-components/) (Refine)
+- [Building components with Radix UI](https://refine.dev/blog/radix-ui/) (Refine)
+- [How to Quickly Build a Blog with Nuxt and ButterCMS](https://buttercms.com/blog/nuxt-blog-tutorial/) (ButterCMS)
+- [CSS-in-JS for React: Linaria vs. Styled Components](https://blog.openreplay.com/css-in-js-solutions-for-react-linaria-vs-styled-components/) (OpenReplay)
+
+More of my writing: [Refine](https://refine.dev/blog/author/peter_osah/) · [OpenReplay](https://blog.openreplay.com/authors/peter-osah/).
 
 ---
 
