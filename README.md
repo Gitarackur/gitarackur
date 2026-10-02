@@ -40,7 +40,11 @@ You can browse the code and read about the design decisions in the [repository](
 
 ## ✍️ Technical Writing
 
-I enjoy breaking down technical ideas and walking readers through practical examples. Here are my published tutorials and guides, grouped by topic.
+I enjoy breaking down technical ideas and walking readers through practical examples. Here are my course, tutorials, and guides, grouped by topic.
+
+### Course on Educative
+
+I authored [Build Web Components in Lit](https://www.educative.io/projects/build-web-components-in-lit), a hands-on project that teaches web components by building a memory game with Lit and TypeScript. It covers reactive properties, state management, game logic, and animations.
 
 ### React, architecture & testing
 
