@@ -14,7 +14,7 @@ I’m a **Software Engineer** and **Data Scientist**. I build web, mobile applic
 
 I’m now taking that background into **systems engineering**, **AI**, and **harness engineering**. I enjoy understanding how things work under the hood, building useful tools, and figuring out how to make them dependable.
 
-I also write technical articles to share what I learn and build. You can find a few examples in [Selected Writing](#-selected-writing).
+I also write technical articles to share what I learn and build. You can browse my articles in [Technical Writing](#-technical-writing).
 
 ---
 
@@ -38,15 +38,44 @@ Some of the problems I’m working on include:
 
 You can browse the code and read about the design decisions in the [repository](https://github.com/Gitarackur/MISSION-ICARUS), or check the [latest release](https://github.com/Gitarackur/MISSION-ICARUS/releases/latest).
 
-## ✍️ Selected Writing
+## ✍️ Technical Writing
 
-I enjoy breaking down technical ideas and walking readers through practical examples. Here are a few of my published articles:
+I enjoy breaking down technical ideas and walking readers through practical examples. Here are my published tutorials and guides, grouped by topic.
 
-- [Creating testable React applications with Playwright](https://refine.dev/blog/playwright-react/) (Refine)
+### React, architecture & testing
+
+- [React Design Patterns](https://refine.dev/blog/react-design-patterns/) (Refine)
 - [An Intro to Server Components in React](https://refine.dev/blog/react-server-components/) (Refine)
-- [Building components with Radix UI](https://refine.dev/blog/radix-ui/) (Refine)
+- [Understanding Virtual DOM in React](https://refine.dev/blog/react-virtual-dom/) (Refine)
+- [React useEffect Cleanup Function](https://refine.dev/blog/useeffect-cleanup/) (Refine)
+- [Creating testable React applications with Playwright](https://refine.dev/blog/playwright-react/) (Refine)
+- [Introduction to HTMX](https://refine.dev/blog/what-is-htmx/) (Refine)
+
+### Building applications & working with data
+
+- [Building a React Admin Dashboard with Refine](https://refine.dev/blog/building-react-admin-dashboard/) (Refine)
+- [React Admin Panel Tutorial with Chakra UI and Strapi](https://refine.dev/blog/react-admin-tutorial/) (Refine)
+- [Building a Complete React CRUD App with Airtable](https://refine.dev/blog/react-crud-app-airtable/) (Refine)
+- [Airtable: a low-code solution for building modern apps](https://blog.openreplay.com/airtable-a-low-code-solution-for-modern-apps/) (OpenReplay)
 - [How to Quickly Build a Blog with Nuxt and ButterCMS](https://buttercms.com/blog/nuxt-blog-tutorial/) (ButterCMS)
+- [How to Build Performant Landing Pages with Nuxt and ButterCMS](https://buttercms.com/blog/nuxt-landing-page-tutorial/) (ButterCMS)
+- [Rails Tutorial: Creating an Impressive Knowledge Base with Content Powered by ButterCMS](https://buttercms.com/blog/rails-tutorial-creating-a-knowledge-base/) (ButterCMS)
+
+### UI, styling & animation
+
+- [Building components with Radix UI](https://refine.dev/blog/radix-ui/) (Refine)
+- [Framer Motion React Animations: Complete Guide](https://refine.dev/blog/framer-motion/) (Refine)
+- [Tailwind Animations with Examples](https://refine.dev/blog/tailwind-animations/) (Refine)
 - [CSS-in-JS for React: Linaria vs. Styled Components](https://blog.openreplay.com/css-in-js-solutions-for-react-linaria-vs-styled-components/) (OpenReplay)
+- [Swiper.js Tutorial - A Powerful Touch Slider Library](https://refine.dev/blog/swiper-js/) (Refine)
+- [CSS Rounded Corners Examples](https://refine.dev/blog/css-rounded-corners/) (Refine)
+- [How do you wrap text content in CSS?](https://refine.dev/blog/css-text-wrap/) (Refine)
+- [How to Hide Scrollbar Using CSS?](https://refine.dev/blog/css-hide-scrollbar/) (Refine)
+- [10 Methods for Vertical Alignment Using CSS](https://refine.dev/blog/css-vertical-align/) (Refine)
+
+### From the archive
+
+- [Creating Client-Serverless Apps with FaunaDB and Nuxt JS](https://blog.openreplay.com/client-serverless-apps-with-fauna-db-and-nuxt-js/) (OpenReplay, 2022)
 
 More of my writing: [Refine](https://refine.dev/blog/author/peter_osah/) · [OpenReplay](https://blog.openreplay.com/authors/peter-osah/).
 
