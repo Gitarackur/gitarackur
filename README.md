@@ -20,7 +20,7 @@ I also write technical articles to share what I learn and build. You can browse 
 
 ## ⚙️ Systems Engineering
 
-I’m moving into **systems engineering**, building on my software development background. I’m interested in how software interacts with the operating system and uses resources like memory, CPU, and I/O. My focus includes systems programming with **Rust**, working with **Linux**, and understanding the trade-offs behind performance, concurrency, and reliability.
+I’m moving into **systems engineering**, building on my software development background. I’m interested in how software interacts with the operating system and uses resources like memory, CPU, and I/O. My focus includes systems programming with **Rust** and **Zig**, working with **Linux**, and understanding the trade-offs behind performance, concurrency, and reliability.
 
 ## 🧠 AI & Harness Engineering
 
@@ -103,6 +103,7 @@ More of my writing: [Refine](https://refine.dev/blog/author/peter_osah/) · [Ope
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
 ![Rust](https://img.shields.io/badge/Rust-CE422B?logo=rust&logoColor=white)
+![Zig](https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=white)
 
 ---
 
