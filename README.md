@@ -28,7 +28,7 @@ I’m building tools and workflows around AI agents, from giving them useful con
 
 ## 🔬 What I’m Building: Icarus
 
-[Icarus](https://github.com/Gitarackur/MISSION-ICARUS) is a desktop app I’m building to explore, analyze, and visualize scientific datasets. It brings together my software engineering, data science, and bioinformatics interests using **TypeScript, Electron, Python, and R**.
+[Icarus](https://github.com/Gitarackur/MISSION-ICARUS) is a desktop app I’m building to explore, analyze, and visualize scientific datasets. It brings together my software engineering, data science, and bioinformatics interests using **TypeScript, Electron, Python, R, and F#**.
 
 Some of the problems I’m working on include:
 
